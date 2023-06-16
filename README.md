@@ -1,13 +1,2 @@
-# resume_app
-
-A new Flutter scratchpad-project to build up your resume on top of it
-
-## Feature
-
-- Profile
-
-## Run 
-
-```bash
-flutter run -t lib/application/env/prod/prod_main.dart
-```
+# This repository is no longer maintained
+# Watch this instead [https://github.com/aap01/flutter_project_template](https://github.com/aap01/flutter_project_template)
